@@ -3,10 +3,10 @@
 #### This is a program that analyzes the performance for the search algorithms of A*, BFS, DFS, Dijkstra.
 
 ## Travelling-salesman-problem-Brute-Force-vs-Dynamic-Programming
-#### This program solves the traveling salesman problem using brute force and dynamic programming. Also a report is attached comparing and contrasting these two algortihms.
+#### This program solves the traveling salesman problem using brute force and dynamic programming. There is a report is attached comparing and contrasting these two algortihms.
 
 ## Traveling-salesman-problem-Genetic-Algorithm-vs-Tabu
-#### Solves the traveling salesman problem using the genetic algorithm and tabu methods. Also a report is attached comparing and contrasting these two algortihms.
+#### Solves the traveling salesman problem using the genetic algorithm and tabu methods. A report is attached comparing and contrasting these two algortihms.
 
 <!--
 **DylanWeeks2/DylanWeeks2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
