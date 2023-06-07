@@ -1,4 +1,4 @@
-Hi, I am Dylan Weeks, a game programmer from Dallas, Texas with an interest in gameplay and physics programming. I am currently working towards a Masters of Interactive Technology in Digital Game Development at SMU Guildhall with a specialization in Software Development. I enjoy collaborating with designers and artists on a daily basis to apply my skills to solve technical problems and bring new and innovative game features to life!
+#### Hi, I am Dylan Weeks, a game programmer from Dallas, Texas with an interest in gameplay and physics programming. I am currently working towards a Masters of Interactive Technology in Digital Game Development at SMU Guildhall with a specialization in Software Development. I enjoy collaborating with designers and artists on a daily basis to apply my skills to solve technical problems and bring new and innovative game features to life!
 
 <!--
 **DylanWeeks2/DylanWeeks2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
