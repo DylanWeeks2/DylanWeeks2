@@ -11,6 +11,13 @@
 ## Smurf-Programming-Language
 #### This project is a custom programming language that is capable of supporting functions, closures, recursion, bound variables, conditional logic, and integer arithmetic. This custom language was created using Python.
 
+| Project                                                                       | Description |
+|-------------------------------------------------------------------------------|------------:|
+| A-BFS-DFS-Dijkstra:                                                           |  [ ]        |
+| Travelling-salesman-problem-Brute-Force-vs-Dynamic-Programming                |  [ ]        |
+| Traveling-salesman-problem-Genetic-Algorithm-vs-Tabu                          |  [x]        |
+| Smurf-Programming-Language                                                    |  [ ]        | 
+
 <!--
 **DylanWeeks2/DylanWeeks2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
