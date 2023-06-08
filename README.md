@@ -11,7 +11,7 @@
 ## Smurf-Programming-Language
 #### This project is a custom programming language that is capable of supporting functions, closures, recursion, bound variables, conditional logic, and integer arithmetic. This custom language was created using Python.
 
-| Project                                                                       | Description |
+| Project                                                                       | Description      |
 |-------------------------------------------------------------------------------|------------:|
 | A-BFS-DFS-Dijkstra:                                                           |  This is a program that analyzes the performance for the search algorithms of A*, BFS, DFS, Dijkstra.       |
 | Travelling-salesman-problem-Brute-Force-vs-Dynamic-Programming                |  This program solves the traveling salesman problem using brute force and dynamic programming. There is a report is attached comparing and contrasting these two algortihms.        |
